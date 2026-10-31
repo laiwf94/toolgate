@@ -1,5 +1,7 @@
 # toolgate
 
+> **This project has moved.** toolgate is now part of [laiwf94/authz](https://github.com/laiwf94/authz), where it lives under `toolgate/` with its full history and continues as one of the platform's tracks. This repository is archived.
+
 A security gateway that sits between AI agents and the tools they call over
 the [Model Context Protocol](https://modelcontextprotocol.io/specification/2026-07-28)
 (MCP). Every tool call is authenticated, checked against a declarative policy,
